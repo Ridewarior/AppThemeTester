@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppThemeTester.Resources.Styles.ThemeOne">
+
+    <Color x:Key="PageBackgroundColorLight">#d9cfc2</Color>
+    <Color x:Key="PrimaryColorLight">#59568d</Color>
+    <Color x:Key="SecondaryColorLight">#efe8df</Color>
+    <Color x:Key="TertiaryColorLight">#af9178</Color>
+
+    <Color x:Key="AccentBtnColorLight">#e29d46</Color>
+    <Color x:Key="DangerBtnColorLight">#ef5e3b</Color>
+    <Color x:Key="DisabledTextColorLight">#a2968b</Color>
+    <Color x:Key="TextColorLight">#212121</Color>
+    <Color x:Key="SwitchOnColorLight">#b5b0ff</Color>
+</ResourceDictionary>

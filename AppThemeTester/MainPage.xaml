@@ -16,7 +16,7 @@
                                  Title="Select Them"
                                  SelectedIndexChanged="OnPickerSelectionChanged"/>
 
-            <Border StrokeShape="10"
+            <Border StrokeShape="RoundRectangle 10"
                     Padding="30"
                     Margin="5">
                 <Grid ColumnDefinitions="30,*,*,*,*,*">
